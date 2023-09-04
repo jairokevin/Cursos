@@ -1,0 +1,19 @@
+{
+  "respuesta1": {
+    "mayor_poblacion": "Asia",
+    "numero": 4501767640
+  },
+  "respuesta2": {
+    "World": "English",
+    "Asia": "Arabic",
+    "Europe": "German",
+    "Africa": "Ful",
+    "Oceania": "English",
+    "North America": "English",
+    "South America": "Spanish"
+  },
+  "respuesta3": {
+    "moneda_mas_usada": "EUR",
+    "cant_paises": 28
+  }
+}
